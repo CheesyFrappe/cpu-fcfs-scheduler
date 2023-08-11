@@ -29,7 +29,12 @@ A Queue was used to organize the order of the processes in this program. It save
 [Report file](https://github.com/CheesyFrappe/cpu-fcfs-scheduler/blob/master/document/17048_42650-3.pdf) contains two outputs of two different files. The first output is given by the course instructors which is the first test in [Testes](https://github.com/CheesyFrappe/cpu-fcfs-scheduler/blob/master/document/Testes.pdf). The pdf file contains other tests as well as the second one.
 
 ## Usage
+Compile:
 ```sh
-   ...
+   gcc -o src/project src/project.c -I include
+   ```
+Run:
+```sh
+   src/./project
    ```
 
